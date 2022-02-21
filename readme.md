@@ -39,4 +39,6 @@ Usage | porcentagem de uso
 - [NodeJS](https://nodejs.org/en/)
 - [VsCode](https://code.visualstudio.com/)
 
+##
 
+#### Projeto feito com base no bootcamp Eduzz Fullstack developer #3 da [DIO](https://www.dio.me/)
