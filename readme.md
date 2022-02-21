@@ -1,21 +1,21 @@
-# Projeto para verificar uso da memória RAM utilizando Node.js
+# Projeto para verificar uso da memória RAM do sistema operacional utilizando Node.js
 
 ### Resumo do projeto
 
-<p>Foi criado um servidor, que devolve uma mensagem em JSON com informações de uso da memória RAM</p>
+- [x] Criar um servidor
+- [x] Subir o servidor
+- [x] Devolver uma mensagem JSON com informações de uso da memória RAM
 
 ##
-
-### Ferramentas utilizadas no projeto
-
-- NodeJS
-- VsCode
 
 #### Servidor local utilizado
 ```
 http://localhost:3000
 ```
-
+#### Comando para subir o servidor
+```
+node server-01.js
+```
 ##
 
 #### Saída no console
@@ -30,3 +30,13 @@ Usage | porcentagem de uso
 
 
 #### Saída no navegador
+<img src="https://github.com/LucasRodriguesdaSilva/primeiroservidornode/blob/main/img/img1.png" alt="pcRamUsage" />
+
+##
+
+### Ferramentas utilizadas
+
+- [NodeJS](https://nodejs.org/en/)
+- [VsCode](https://code.visualstudio.com/)
+
+
